@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'Calistha';
+    src: url(../font/Calistha.ttf);
+}
+
+h1 {
+    font-family: 'Calistha';
+    font-size: 60px;
+    text-align: center;
+    color: rgb(9, 29, 16);
+}
+
+
+#menuss {
+    font-family: 'Calistha';
+    font-size: 40px;
+    list-style: none;
+}
+
+#menuss li {
+    color: rgb(36, 85, 59);
+    padding: 90px;
+    display: inline;
+    text-decoration: none;
+    display: inline;
+}
+
+#menuss li a {  
+    color: rgb(11, 14, 12);
+    padding: 5px;
+    display: inline;
+    text-decoration: none;
+    display: inline;
+}
+
+
+
+
+
+
